@@ -1,2 +1,4 @@
-var intro = "Hello word";
-document.getElementById("intro").innerHTML = intro;
+
+    function showMessage() {
+    alert("xin chào bạn đã đến với channel của Trung")
+}
